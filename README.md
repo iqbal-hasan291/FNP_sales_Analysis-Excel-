@@ -1,9 +1,8 @@
-# FNP_sales_Analysis-Excel-
 # FNP Sales Analysis Dashboard
 
 This project presents an interactive **Sales Analysis Dashboard** for FNP (Ferns N Petals), visualized using Power BI. The goal of the project is to analyze sales performance, customer behavior, product performance, and ordering trends based on real-world business data. 
 
-## 📌 Project Goal
+##  Project Goal
 
 The primary objective of this project is to deliver actionable business insights through data analysis and visualization. Key goals include:
 
@@ -12,7 +11,7 @@ The primary objective of this project is to deliver actionable business insights
 - Analyzing sales performance by date, time, city, and occasion
 - Improving decision-making by leveraging data-driven insights
 
-## 📊 Dataset Overview
+##  Dataset Overview
 
 The dataset used in this project includes three main tables:
 
@@ -49,14 +48,14 @@ The dataset used in this project includes three main tables:
 - **Microsoft Excel / Power Query** – For data cleaning and transformation
 - **DAX** – For calculated fields and measures
 
-## 🔁 ETL Process
+## ETL Process
 
 1. **Extract** – Data imported from Excel files
 2. **Transform** – Cleaned missing values, standardized column names, and converted data types
 3. **Load** – Loaded transformed data into Power BI
 4. **Modeling** – Created relationships between fact and dimension tables
 
-## 📈 Key Visuals in the Dashboard
+##  Key Visuals in the Dashboard
 
 - Total Revenue, Orders, Average Spend, and Delivery Time KPIs
 - Revenue by Product, Category, Occasion, and City
@@ -76,7 +75,7 @@ The dataset used in this project includes three main tables:
 - Highest Sales Months: March and August
 - Most Orders by Weekday: Sunday and Thusday
 
-## 🧠 What I Learned
+##  What I Learned
 
 During this project, I gained hands-on experience with the following:
 
@@ -88,7 +87,7 @@ During this project, I gained hands-on experience with the following:
 - Designing professional Power BI dashboards
 - Extracting and interpreting key business insights
 
-## 📁 Project Files
+## Project Files
 
 - `FNP_Dashboard.pbix` – Excel dashboard file
 - `README.md` – Project documentation
