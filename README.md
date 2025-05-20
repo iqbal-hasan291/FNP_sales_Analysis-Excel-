@@ -1,6 +1,7 @@
 # FNP Sales Analysis Dashboard
 
-This project presents an interactive Sales Analysis Dashboard for FNP (Ferns N Petals), visualized using Power BI. The goal of the project is to analyze sales performance, customer behavior, product performance, and ordering trends based on real-world business data. 
+This project presents an interactive Sales Analysis Dashboard for FNP (Ferns N Petals), visualized using Excel. The goal of the project is to analyze sales performance, customer behavior, product performance, and ordering trends based on real-world business data.
+
 ![image alt](https://github.com/iqbal-hasan291/FNP_sales_Analysis-Excel-/blob/b96a477094d71f00b9886bbd9310da2ee8224822/FNP_Dashboard.png)
 
 ##  Project Goal
